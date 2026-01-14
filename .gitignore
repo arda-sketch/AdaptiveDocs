@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+unsloth_compiled_cache
+# Virtual Environment
+.venv/
+venv/
+
+.env
+.vscode/
+
+# Generated files
+experiments/sandbox.py
+docs/generated_docstrings.md
