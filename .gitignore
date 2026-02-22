@@ -10,5 +10,5 @@ venv/
 .vscode/
 
 # Generated files
-experiments/sandbox.py
-docs/generated_docstrings.md
+# experiments/sandbox.py
+# docs/generated_docstrings.md
